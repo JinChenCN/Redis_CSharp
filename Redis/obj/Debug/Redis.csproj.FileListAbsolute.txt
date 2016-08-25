@@ -1,0 +1,13 @@
+C:\VSWorkSpace\Redis\Redis\bin\Debug\Redis.exe.config
+C:\VSWorkSpace\Redis\Redis\bin\Debug\Redis.exe
+C:\VSWorkSpace\Redis\Redis\bin\Debug\Redis.pdb
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Common.dll
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Redis.dll
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Text.dll
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Common.xml
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Redis.xml
+C:\VSWorkSpace\Redis\Redis\bin\Debug\ServiceStack.Text.xml
+C:\VSWorkSpace\Redis\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+C:\VSWorkSpace\Redis\Redis\obj\Debug\Redis.exe
+C:\VSWorkSpace\Redis\Redis\obj\Debug\Redis.pdb
